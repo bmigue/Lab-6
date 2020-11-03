@@ -1,0 +1,6 @@
+﻿  listasSimple.cpp
+  ListasSimples.cpp
+  Generating Code...
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Estructuras\Projects_C++\ListasSimples\ListasSimples\listasSimple.cpp(147): warning C4715: 'listasSimple::dirAnterior': not all control paths return a value
+C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Estructuras\Projects_C++\ListasSimples\ListasSimples\listasSimple.cpp(121): warning C4715: 'listasSimple::dirNodo': not all control paths return a value
+  ListasSimples.vcxproj -> C:\Users\Miguel Gutierrez\Documents\Cenfotec\8 Cuatri\Estructuras\Projects_C++\ListasSimples\Debug\ListasSimples.exe
